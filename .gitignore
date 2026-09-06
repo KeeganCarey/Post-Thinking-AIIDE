@@ -21,9 +21,10 @@ src/ref/
 *.jsonl
 *.csv
 
-# Some important json shouldn't be ignored
+# Some important json/csv shouldn't be ignored
 !Metric-Eval/Eval-45.jsonl
 !Expert-Eval/eval_form_key.json
+!Dataset/dataset/data/npc-dialogue-info.csv
 
 # ignore sqlite db
 *.sqlite3
