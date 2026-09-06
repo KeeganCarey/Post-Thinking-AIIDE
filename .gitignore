@@ -25,6 +25,7 @@ src/ref/
 !Metric-Eval/Eval-45.jsonl
 !Expert-Eval/eval_form_key.json
 !Dataset/dataset/data/npc-dialogue-info.csv
+!HumanEvalGame/UnityClient/Assets/StreamingAssets/postthink_config.example.json
 
 # ignore sqlite db
 *.sqlite3
@@ -46,10 +47,17 @@ Temp/
 Logs/
 obj/
 UserSettings/
-HumanEvalGame/UnityClient/Assets/Editor
 *.csproj
 *.sln
-TextMesh Pro/
+
+# Duplicate Decor formats (Unity uses FBX) and TMP sample content
+HumanEvalGame/UnityClient/Assets/Decor/glTF/
+HumanEvalGame/UnityClient/Assets/Decor/OBJ/
+HumanEvalGame/UnityClient/Assets/TextMesh Pro/Examples & Extras/
+HumanEvalGame/UnityClient/Assets/allthestuff.unity
+HumanEvalGame/UnityClient/Assets/allthestuff.unity.meta
+HumanEvalGame/UnityClient/Assets/allthestuffSettings.lighting
+HumanEvalGame/UnityClient/Assets/allthestuffSettings.lighting.meta
 
 # Unity packages — ignore installed packages but keep the manifests
 HumanEvalGame/UnityClient/Packages/*

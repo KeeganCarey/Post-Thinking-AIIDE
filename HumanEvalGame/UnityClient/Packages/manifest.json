@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "com.unity.ide.rider": "3.0.40",
+    "com.unity.multiplayer.center": "1.0.1",
+    "com.unity.sdk.linux-x86_64": "1.1.0",
+    "com.unity.toolchain.linux-x86_64-linux": "1.1.0",
+    "com.unity.ugui": "2.0.0",
+    "com.unity.modules.accessibility": "1.0.0",
+    "com.unity.modules.adaptiveperformance": "1.0.0",
+    "com.unity.modules.animation": "1.0.0",
+    "com.unity.modules.unitywebrequest": "1.0.0",
+    "com.unity.modules.vectorgraphics": "1.0.0"
+  }
+}
