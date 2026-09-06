@@ -1,10 +1,13 @@
 # Post-Thinking-AIIDE
 
-Repository for the paper ***Making NPCs Think: Evaluating Post-Thinking for Real-Time Game NPC Dialogue Generation***
+Repository for the paper ***Making NPCs Think: Evaluating Post-Thinking for Real-Time Game NPC Dialogue Generation***.
 
 Accepted as poster presentation for [AIIDE 2026](https://sites.google.com/view/aiide2026/home).
 
 By Hexi Wang and Keegan Carey
+
+> [!NOTE]
+> If you are using Windows you might have to adopt the shell scripts to PowerShell or use WSL.
 
 ---
 
@@ -23,7 +26,7 @@ Our Github repo: [Post-Thinking-FDG](https://github.com/KeeganCarey/Post-Thinkin
 - `Dataset/`: build the three training mixes (npc 800 + pippa 400 + rpg 800).
 - `Training/`: Gemma3-4B LoRA SFT on TPU v6e using Tunix (`No-Thinking.py`, `Pre-Thinking.py`, `Post-Thinking.py`).
 - `Metric-Eval/`: automated eval on the 45 held-out cards (`Eval-45.jsonl`): transcripts, latency, style, NLI, aggregate report.
-- `Expert-Eval/`: blind Likert form over 10 dialogues; `analyze_form_responses.py` scores Prolific + volunteer CSVs.
+- `Expert-Eval/`: blind Likert form over 10 dialogues, n=32 experts; `analysis.py` scores Prolific + volunteer CSVs.
 - `HumanEvalGame/`: Unity WebGL tavern demo and FastAPI proxy (`GameProxy/`). Start at `HumanEvalGame/README.md`.
 - `models/`: local Q8 GGUFs, can be downloaded via `setup.sh`
 
