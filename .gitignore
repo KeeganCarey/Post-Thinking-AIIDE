@@ -1,0 +1,59 @@
+# Basic Configs from git, Jetbrain IDEs and virtual environments
+.git
+.idea/
+.venv/
+.env
+.python-version
+__pycache__/
+
+#Ingore papers folder
+Paper/
+
+# Tests
+HumanEvalGame/GameProxy/tests
+
+# Datasets and model files, these can be found on HuggingFace
+src/ref/
+*.bak
+*.log
+*.gguf
+*.json
+*.jsonl
+*.csv
+
+# Some important json shouldn't be ignored
+!Metric-Eval/Eval-45.jsonl
+!Expert-Eval/eval_form_key.json
+
+# ignore sqlite db
+*.sqlite3
+
+#Evaluation results that are used in the paper but too big and tedious to all commit
+Metric-Eval/runs/
+Metric-Eval/results/
+Metric-Eval/latency/
+
+# Test Unity Assets
+UnityClient/ThirdPartyAssets/downloads/
+UnityClient/ThirdPartyAssets/extracted/
+HumanEvalGame/UnityClient/ThirdPartyAssets/downloads/
+HumanEvalGame/UnityClient/ThirdPartyAssets/extracted/
+
+# Unity generated / IDE files (not needed for clone)
+Library/
+Temp/
+Logs/
+obj/
+UserSettings/
+HumanEvalGame/UnityClient/Assets/Editor
+*.csproj
+*.sln
+TextMesh Pro/
+
+# Unity packages — ignore installed packages but keep the manifests
+HumanEvalGame/UnityClient/Packages/*
+!HumanEvalGame/UnityClient/Packages/manifest.json
+!HumanEvalGame/UnityClient/Packages/packages-lock.json
+
+# Un-ignore Unity config JSON files
+!HumanEvalGame/UnityClient/ProjectSettings/*.json
