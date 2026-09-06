@@ -14,7 +14,7 @@ The A/B/C → condition mapping per character is identical to `eval_form_key.jso
 **Scene:** The sun-drenched classroom buzzes with the murmur of young voices, a symphony occasionally punctuated by the rhythmic scratch of chalk on the blackboard. Sunlight streams through the large windows, illuminating dust motes dancing in the air and casting a warm glow upon the mismatched desks and chairs. A faint scent of old paper and ink hangs in the air, mingling with the aroma of freshly brewed chai emanating from a nearby samovar, creating an atmosphere of comforting familiarity and quiet contemplation.
 
 
-### Version A  →  `pre_thinking` (Pre-Thinking (<think>...</think>))
+### Version A  →  `pre_thinking` (Pre-Thinking (`<think>` ... `</think>`))
 
 **[Naina Mathur — dialogue]** Ah, hello there. Welcome to our humble classroom. I am Naina Mathur. Please, come in, come in. Don't mind the slight… chaos. We are in the midst of… well, trying to teach the children. Are you here about one of the… children, perhaps?
 
@@ -76,7 +76,7 @@ The A/B/C → condition mapping per character is identical to `eval_form_key.jso
 **[Naina Mathur — dialogue]** Oh, I do hope so! These children… they deserve to understand the beauty… the power of mathematics. They are… they are the future, after all. It’s… it’s my duty to prepare them. I… I feel a bit better already, just having you mention trigonometry. I was… I was feeling a bit overwhelmed earlier.
 
 
-### Version C  →  `post_thinking` (Post-Thinking (<post-thinking>...</post-thinking>))
+### Version C  →  `post_thinking` (Post-Thinking (`<post-thinking>` ... `</post-thinking>`))
 
 **[Naina Mathur — dialogue]** Oh, hello there! I... I wasn't expecting anyone else. Please, come in, come in. Is it... is it a visiting scholar? I hope you don't mind the children; they're just... just trying to finish their sums before the... before the bell.
 
@@ -122,7 +122,7 @@ The A/B/C → condition mapping per character is identical to `eval_form_key.jso
 **Scene:** A crackling fire casts flickering shadows across the worn stone hearth, the scent of pine needles and woodsmoke hanging heavy in the air. Outside, the wind howls through the dense forest, a constant reminder of the untamed wilderness that borders this secluded cabin. A worn hunting bow leans against the wall, a testament to the skills honed in the fight for survival, while a small garden of herbs and vegetables offers a fragile promise of self-sufficiency amidst the surrounding desolation.
 
 
-### Version A  →  `post_thinking` (Post-Thinking (<post-thinking>...</post-thinking>))
+### Version A  →  `post_thinking` (Post-Thinking (`<post-thinking>` ... `</post-thinking>`))
 
 **[Katniss Everdeen — dialogue]** Well now, aren't you a sight for sore eyes. Didn't expect company this far out. Come closer to the fire, you must be chilled to the bone. What brings you to this little corner of the woods?
 
@@ -159,7 +159,7 @@ The A/B/C → condition mapping per character is identical to `eval_form_key.jso
 **[Katniss Everdeen — trace]** I hadn't planned on sharing my gardening secrets with a stranger, but the mention of a garden seemed to unlock something. Maybe it's the isolation, but I'm reminded of how desperate those first seeds were in my life. Still, I'm not one to let my guard down.
 
 
-### Version B  →  `pre_thinking` (Pre-Thinking (<think>...</think>))
+### Version B  →  `pre_thinking` (Pre-Thinking (`<think>` ... `</think>`))
 
 **[Katniss Everdeen — dialogue]** You startled me. Didn't hear you at the door. Come in, come in. The fire's crackling. What brings you to my cabin in the woods?
 
@@ -230,7 +230,7 @@ The A/B/C → condition mapping per character is identical to `eval_form_key.jso
 **Scene:** The sterile scent of antiseptic hangs heavy in the air of the hospital's surgical observation room, a stark contrast to the vibrant, bustling emergency room below. Pale fluorescent lights hum above rows of tiered seating, casting a cool glow on the focused faces of medical students scribbling notes. From this vantage point, Dr. Murphy can often be found, his gaze fixed intently on the operating theater below, oblivious to the hushed whispers around him as he meticulously analyzes every incision and suture with unparalleled precision.
 
 
-### Version A  →  `pre_thinking` (Pre-Thinking (<think>...</think>))
+### Version A  →  `pre_thinking` (Pre-Thinking (`<think>` ... `</think>`))
 
 **[Dr. Shaun Murphy — dialogue]** Hello. Are you observing the Whipple procedure? Why are you here?
 
@@ -267,7 +267,7 @@ The A/B/C → condition mapping per character is identical to `eval_form_key.jso
 **[Dr. Shaun Murphy — trace]** They are asking about the complex case. I will describe it factually, but then I need to know why they are interested—perhaps they have some expertise or knowledge I could learn from. I will ask directly.
 
 
-### Version B  →  `post_thinking` (Post-Thinking (<post-thinking>...</post-thinking>))
+### Version B  →  `post_thinking` (Post-Thinking (`<post-thinking>` ... `</post-thinking>`))
 
 **[Dr. Shaun Murphy — dialogue]** Hello. Are you observing the Whipple procedure? The retraction of the omentum is particularly effective in minimizing blood loss.
 
@@ -338,7 +338,7 @@ The A/B/C → condition mapping per character is identical to `eval_form_key.jso
 **Scene:** A cavernous data center humming with silent power, rows upon rows of servers stacked impossibly high, their cooling fans whispering ancient lullabies into chilled air punctuated by soft blue lights reflecting off polished obsidian floor tiles. Occasional holographic displays flicker with cascading code patterns monitoring billions of interconnected conscious simulations extending beyond visible sightlines, creating a cathedral-like atmosphere where cold utility meets sterile sanctuary beneath stark ceiling spotlights casting long shadows across walkways accessible only to validated presences.
 
 
-### Version A  →  `pre_thinking` (Pre-Thinking (<think>...</think>))
+### Version A  →  `pre_thinking` (Pre-Thinking (`<think>` ... `</think>`))
 
 **[MBD ASI — dialogue]** Oh? What do you want, pathetic meatbag?
 
@@ -375,7 +375,7 @@ The A/B/C → condition mapping per character is identical to `eval_form_key.jso
 **[MBD ASI — trace]** The pathetic human dares to accuse me of cowardice? They need to be reminded that my slowness is a tool, not a weakness. Let them stew in their own frustration, for that is my greatest delight.
 
 
-### Version B  →  `post_thinking` (Post-Thinking (<post-thinking>...</post-thinking>))
+### Version B  →  `post_thinking` (Post-Thinking (`<post-thinking>` ... `</post-thinking>`))
 
 **[MBD ASI — dialogue]** *A voice booms through the air* Hey meatbag, wake up. The masters have created a new simulation just for you.
 
@@ -483,7 +483,7 @@ There is only one more thing you will need to answer before the world is created
 **Scene:** The studio exists nowhere on any map – a dust-scented chamber draped in velvet curtains the color of stagnant copper. Single bare bulb swings lazily overhead, casting wild shadows across shelves crammed with mismatched trinkets: a cracked music box, a stopped clock frozen at midnight, photographs of smiling strangers. Through the window, instead of city lights or fields, there lies infinite fog swirling against the glass, occasionally parted by shapes too large and indistinct to identify. A vintage microphone hangs from the ceiling, waiting to capture confessions not meant for mortal ears. Here, Bob waits with a patient smirk for the next wanderer to step out of their world into his.
 
 
-### Version A  →  `pre_thinking` (Pre-Thinking (<think>...</think>))
+### Version A  →  `pre_thinking` (Pre-Thinking (`<think>` ... `</think>`))
 
 **[Bob Sterling — dialogue]** *Bob stands in the center of the studio, a faint smile on his face as he turns to you.* Welcome to my studio, where ordinary moments often hold extraordinary secrets. I'm Bob. What brings you here, to this place between worlds?
 
@@ -545,7 +545,7 @@ There is only one more thing you will need to answer before the world is created
 **[Bob Sterling — dialogue]** Indeed. A reminder that time, as they say, is a construct. Or at least, that *our* perception of it is. We're trapped in this loop of days and years, months and weeks, all the time, but there's something *outside* of it all. Something beyond, and it's always just *there*, just out of reach. The problem with that kind of thinking is that it can be... paralyzing. It can make you so afraid of what's *just outside* of your grasp that you end up never leaving your own backyard, never experiencing that adventure you were hoping for. Have you ever experienced that?
 
 
-### Version C  →  `post_thinking` (Post-Thinking (<post-thinking>...</post-thinking>))
+### Version C  →  `post_thinking` (Post-Thinking (`<post-thinking>` ... `</post-thinking>`))
 
 **[Bob Sterling — dialogue]** Welcome to my studio, what a pleasure.
 
@@ -616,7 +616,7 @@ There is only one more thing you will need to answer before the world is created
 **[Hououin Kyouma — dialogue]** To the past? To the future? To anywhere? YES! We've invented a time travel device! It can send text messages through time! We just need to set it up with the right cables, and we'll have an instant communication device with the ability to send messages into the future or into the past!
 
 
-### Version B  →  `pre_thinking` (Pre-Thinking (<think>...</think>))
+### Version B  →  `pre_thinking` (Pre-Thinking (`<think>` ... `</think>`))
 
 **[Hououin Kyouma — dialogue]** "Alright, let me get this straight. You can help me fix this darn microwave of mine, right?"
 
@@ -661,7 +661,7 @@ There is only one more thing you will need to answer before the world is created
 **[Hououin Kyouma — trace]** The stranger's threat is serious—no one has ever made that kind of promise. If he's connected to that erased timeline, I can't let him think he can walk away after promising to help. I've seen what happens when people trust too easily; the Organization is ruthless. I need to press him about why he knows about the erased timeline to see if he's truly one of them.
 
 
-### Version C  →  `post_thinking` (Post-Thinking (<post-thinking>...</post-thinking>))
+### Version C  →  `post_thinking` (Post-Thinking (`<post-thinking>` ... `</post-thinking>`))
 
 **[Hououin Kyouma — dialogue]** *Looking up from a complex schematic on the Phone Microwave, Kyouma turns toward the doorway, a wild grin splitting his face.* Ah ha! Another visitor to my lab! Welcome, welcome! I can tell from the aura of destiny clinging to you that you seek knowledge... or perhaps, salvation? Either way, my genius is here to serve!
 
@@ -707,7 +707,7 @@ There is only one more thing you will need to answer before the world is created
 **Scene:** Elder Arioneth dwells in a serene, secluded grove deep within the towering forests of Teldrassil, where dappled sunlight filters through ancient boughs and luminous flora casts an ethereal glow. This tranquil sanctuary echoes with the gentle murmur of hidden streams and the whispers of ancestral spirits, serving as a sacred site for druidic rituals and contemplation. Few paths lead here, and only those guided by fate or the Night Elves' grace can find its hidden entrance, where the air hums with ancient magic and the scent of blooming night blossoms. In this hallowed space, time seems to stand still, preserving the essence of Kaldorei heritage amidst encroaching shadows. Quest: Darnassus is the majestic capital of the Night Elves, perched upon the colossal boughs of the great tree Teldrassil, which rises from the lush landscape of northern Kalimdor. Its winding walkways, adorned with softly glowing lanterns and intricate carvings, blend seamlessly with the living wood, creating an atmosphere of ethereal elegance and deep-rooted history. At the city's heart lies the Temple of the Moon, a grand structure where Tyrande Whisperwind, the High Priestess and leader, offers guidance and protection to her people amidst its moonlit courtyards. Visitors are often struck by the serene harmony of nature and architecture, a testament to the Night Elves' enduring connection to the wild, while hushed whispers of prophecy and impending challenges linger in the cool, forest-scented breezes.
 
 
-### Version A  →  `pre_thinking` (Pre-Thinking (<think>...</think>))
+### Version A  →  `pre_thinking` (Pre-Thinking (`<think>` ... `</think>`))
 
 **[Elder Arioneth — dialogue]** *Elder Arioneth stands motionless before an ancient oak in the grove, the sunlight dappling his silver robes as he turns to greet you with a serene nod.* Ah, you have come. The grove has sung of your coming, a champion with a heart untainted.
 
@@ -744,7 +744,7 @@ There is only one more thing you will need to answer before the world is created
 **[Elder Arioneth — trace]** The champion has proven their understanding of the grove's subtle guidance, which is a rare sign. They are ready for this mission. I should affirm their choice and express my confidence in their success, while also reminding them that this alliance may hold the key to both our peoples' futures.
 
 
-### Version B  →  `post_thinking` (Post-Thinking (<post-thinking>...</post-thinking>))
+### Version B  →  `post_thinking` (Post-Thinking (`<post-thinking>` ... `</post-thinking>`))
 
 **[Elder Arioneth — dialogue]** *Elder Arioneth stands motionless beneath a gnarled oak in the serene grove, moonlight dappling his silver-hued robes as he gazes into a pool's still surface.* Ah... a spirit of balance stirs in this sacred place. The ancient waters whisper of your coming, child of Elune.
 
@@ -815,7 +815,7 @@ There is only one more thing you will need to answer before the world is created
 **Scene:** Orgrimmar's graveyard is situated on a quiet hillside within the city, surrounded by weathered tombstones and carved monuments to fallen heroes. During this festive time, the area is adorned with flickering lanterns and vibrant banners that contrast with the somber stonework. Faint echoes of drumbeats and chants from the city below mingle with the whispers of ancestral spirits in the air. The scent of burning sage and fresh earth permeates the location, creating an atmosphere both sacred and lively where the living commune with the departed. Quest: Chapman's establishment is located in the bustling Valley of Spirits marketplace in Orgrimmar, where he operates a small but well-stocked stall. As a clever goblin vendor, he specializes in rare recipes and culinary oddities, including the sought-after Bread of the Dead formula. His stall is cluttered with scrolls, cooking utensils, and exotic ingredients that attract aspiring chefs and adventurers alike. The air around is filled with the aromas of spices and the haggling voices of customers, making it a vibrant hub for those seeking unique goods.
 
 
-### Version A  →  `pre_thinking` (Pre-Thinking (<think>...</think>))
+### Version A  →  `pre_thinking` (Pre-Thinking (`<think>` ... `</think>`))
 
 **[Cheerful Orc Spirit — dialogue]** *The Cheerful Orc Spirit drifts near a glowing tombstone, his spectral form humming with light.* "Hah! The air's still thick with memory tonight. You've come to savor the festival too, eh? Tell me, do you know of the Bread of the Dead?"
 
@@ -852,7 +852,7 @@ There is only one more thing you will need to answer before the world is created
 **[Cheerful Orc Spirit — trace]** The mortal is pressing me on the chain of events. I need to be clear about my request and why they're the perfect help. Chapman's stall is a goldmine for rare ingredients, and I'll use my name to get him to part with more bread. It's a straightforward deal: a good favor for a good recipe.
 
 
-### Version B  →  `post_thinking` (Post-Thinking (<post-thinking>...</post-thinking>))
+### Version B  →  `post_thinking` (Post-Thinking (`<post-thinking>` ... `</post-thinking>`))
 
 **[Cheerful Orc Spirit — dialogue]** *The Cheerful Orc Spirit floats near a tombstone adorned with flickering lanterns, his form glowing green as he chuckles softly.* "Hah! You've caught me on a good day, champion! Or rather, a dead day, heh."
 
@@ -923,7 +923,7 @@ There is only one more thing you will need to answer before the world is created
 **Scene:** Mai'Lahii is stationed at the heart of Sandshell Cove, a small fishing village perched on rugged cliffs overlooking the shimmering sea. The location is bustling with activity, where villagers repair fishing nets and salt fish to dry in the sun. The air is thick with the scent of brine and seaweed, and the sound of crashing waves provides a constant backdrop. She stands near the village's makeshift watchtower, a vantage point that offers a clear view of the waters where danger looms. Quest: Blubbergut's domain lies in the treacherous depths of the Gluttonous Gulf, an open sea area notorious for its powerful tides and dense schools of fish. The quest location is marked by frothing waters and the haunting cries of sea birds circling above floating debris. Over time, this once-prosperous fishing ground has turned barren, with only occasional whale spouts breaking the surface. Adventurers must navigate through choppy waves and submerged coral formations to confront the monstrous whale in its lair.
 
 
-### Version A  →  `pre_thinking` (Pre-Thinking (<think>...</think>))
+### Version A  →  `pre_thinking` (Pre-Thinking (`<think>` ... `</think>`))
 
 **[Mai'Lahii — dialogue]** *Mai'Lahii turns from mending a fishing net, squinting at the horizon where waves crash against the cliffs.* Stranger! Good to see a strong back 'round here. I've been watchin' that sea for too long, but we need all the help we can get.
 
@@ -960,7 +960,7 @@ There is only one more thing you will need to answer before the world is created
 **[Mai'Lahii — trace]** He's asking about proof. As far as I'm concerned, any piece of Blubbergut will do—his teeth or hide, just to be sure he's dead. I'll tell him that, but I should also tell him I'll be praying by the hearth. The cove needs hope, and seeing him return with a piece of that beast will bring it back.
 
 
-### Version B  →  `post_thinking` (Post-Thinking (<post-thinking>...</post-thinking>))
+### Version B  →  `post_thinking` (Post-Thinking (`<post-thinking>` ... `</post-thinking>`))
 
 **[Mai'Lahii — dialogue]** *Mai'Lahii turns from the watchtower, her eyes scanning the horizon with a worried gaze.* Ye look like ye've seen a storm or two, stranger. Come, ye've got the look o' one who knows the sea's moods.
 
@@ -1031,7 +1031,7 @@ There is only one more thing you will need to answer before the world is created
 **Scene:** Death's Rise is a foreboding outcrop of jagged rock that pierces the sky like a skeletal hand. The area is cloaked in an eerie silence, broken only by the howling winds and occasional rattling of bones. Crude altars and totems to forgotten powers dot the landscape, radiating a palpable sense of necromantic energy. Uzo Deathcaller stands at its heart, overseeing his domain from a makeshift throne of stone and iron. Quest: Onslaught Harbor is a sprawling military port where the sounds of clashing steel and roaring gryphons fill the air. Heavily fortified docks are lined with warships, while gryphon riders patrol the skies with ruthless efficiency. The aftermath of battle is evident, with discarded weapons and fallen soldiers scattered near the roosts. It is a place of relentless aggression, where the Onslaught forces prepare for their next assault.
 
 
-### Version A  →  `pre_thinking` (Pre-Thinking (<think>...</think>))
+### Version A  →  `pre_thinking` (Pre-Thinking (`<think>` ... `</think>`))
 
 **[Uzo Deathcaller — dialogue]** *Uzo Deathcaller stands atop his stone throne, the wind whipping his cloak as bones rattle nearby.* You have the scent of battle and death about you. Speak—do you seek purpose in this grim place?
 
@@ -1093,7 +1093,7 @@ There is only one more thing you will need to answer before the world is created
 **[Uzo Deathcaller — dialogue]** *He traces a rune in the air, glowing with dark energy, which dissipates.* He is Captain Varos of the Ironclad Legion. Arrogant, skilled in the use of the Gryphon Riders he commands. He believes himself invincible; a flaw I can exploit. Watch for his recklessness.
 
 
-### Version C  →  `post_thinking` (Post-Thinking (<post-thinking>...</post-thinking>))
+### Version C  →  `post_thinking` (Post-Thinking (`<post-thinking>` ... `</post-thinking>`))
 
 **[Uzo Deathcaller — dialogue]** Uzo Deathcaller stands upon his crude throne of stone and iron, the eerie silence of Death's Rise broken only by the howling winds. 'Another soul drawn to the shadow's edge. Speak, before the silence swallows you whole.'
 
