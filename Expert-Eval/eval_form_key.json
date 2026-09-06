@@ -1,0 +1,92 @@
+{
+  "npc__aria_nightshade": {
+    "display_name": "Aria Nightshade",
+    "category": "NPC",
+    "mapping": {
+      "A": "pre_thinking",
+      "B": "no_thinking",
+      "C": "post_thinking"
+    }
+  },
+  "npc__kiera_ravenwood": {
+    "display_name": "Kiera Ravenwood",
+    "category": "NPC",
+    "mapping": {
+      "A": "post_thinking",
+      "B": "pre_thinking",
+      "C": "no_thinking"
+    }
+  },
+  "npc__thorgar_the_mighty": {
+    "display_name": "Thorgar the Mighty",
+    "category": "NPC",
+    "mapping": {
+      "A": "pre_thinking",
+      "B": "post_thinking",
+      "C": "no_thinking"
+    }
+  },
+  "pippa__mbd_asi": {
+    "display_name": "MBD ASI",
+    "category": "PIPPA",
+    "mapping": {
+      "A": "pre_thinking",
+      "B": "post_thinking",
+      "C": "no_thinking"
+    }
+  },
+  "pippa__bob_sterling": {
+    "display_name": "Bob Sterling",
+    "category": "PIPPA",
+    "mapping": {
+      "A": "pre_thinking",
+      "B": "no_thinking",
+      "C": "post_thinking"
+    }
+  },
+  "pippa__misaki_kagome": {
+    "display_name": "Misaki Kagome",
+    "category": "PIPPA",
+    "mapping": {
+      "A": "no_thinking",
+      "B": "pre_thinking",
+      "C": "post_thinking"
+    }
+  },
+  "rpg__elder_arioneth": {
+    "display_name": "Elder Arioneth",
+    "category": "RPG",
+    "mapping": {
+      "A": "pre_thinking",
+      "B": "post_thinking",
+      "C": "no_thinking"
+    }
+  },
+  "rpg__cheerful_orc_spirit": {
+    "display_name": "Cheerful Orc Spirit",
+    "category": "RPG",
+    "mapping": {
+      "A": "pre_thinking",
+      "B": "post_thinking",
+      "C": "no_thinking"
+    }
+  },
+  "rpg__mai_lahii": {
+    "display_name": "Mai'Lahii",
+    "category": "RPG",
+    "mapping": {
+      "A": "pre_thinking",
+      "B": "post_thinking",
+      "C": "no_thinking"
+    }
+  },
+  "rpg__uzo_deathcaller": {
+    "display_name": "Uzo Deathcaller",
+    "category": "RPG",
+    "mapping": {
+      "A": "pre_thinking",
+      "B": "no_thinking",
+      "C": "post_thinking"
+    }
+  }
+}
