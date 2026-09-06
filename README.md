@@ -49,3 +49,9 @@ Models:
     - [`post-thinking`](https://huggingface.co/chimbiwide/Gemma3NPC-4B-post-thinking)
 
 They can be downloaded using `setup.sh`, just make sure to have the [HF CLI](https://huggingface.co/docs/huggingface_hub/en/guides/cli) installed.
+
+---
+
+## Acknowledgments
+
+Huge thanks to Google's TPU Research Cloud (TRC) for providing us the necessary compute.
