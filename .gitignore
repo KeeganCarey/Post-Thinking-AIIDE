@@ -3,7 +3,6 @@
 .idea/
 .venv/
 .env
-.python-version
 __pycache__/
 
 #Ingore papers folder

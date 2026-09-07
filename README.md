@@ -52,6 +52,12 @@ They can be downloaded using `setup.sh`, just make sure to have the [HF CLI](htt
 
 ---
 
+## Setup
+
+We strongly recommend using `uv` and `ruff`(yes thanks to ruff for all the linting).
+
+---
+
 ## Acknowledgments
 
 Huge thanks to Google's TPU Research Cloud (TRC) for providing us the necessary compute.
