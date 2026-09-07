@@ -9,10 +9,8 @@ namespace PostThinkRP
         [SerializeField] private PostThinkApiClient apiClient;
         [SerializeField] private string startingNpc = "maid";
 
-        [Tooltip("Legacy single-session (between-subjects) flow creates its own " +
-                 "session on Start(). Set FALSE for the Option-B paired flow, " +
-                 "where PairFlowController injects the session id via " +
-                 "BeginWithSession().")]
+        [Tooltip("If true, create a session on Start(). If false, " +
+                 "PairFlowController injects the session id via BeginWithSession().")]
         [SerializeField] private bool autoCreateSession = true;
 
         public string SessionId { get; private set; }

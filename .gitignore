@@ -9,7 +9,6 @@ __pycache__/
 #Ingore papers folder
 Paper/
 
-# Tests
 HumanEvalGame/GameProxy/tests
 
 # Datasets and model files, these can be found on HuggingFace
